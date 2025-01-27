@@ -374,7 +374,7 @@ code {
   margin-left: 20px;
 }
 #header-title .subtitle {
-  font-size: 16px;
+  font-size: 20px;
   font-style: italic;
   line-height: 70px;
   color: rgba(255,255,255,0.7);
@@ -508,6 +508,7 @@ code {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+  float: right;
 }
 .search-form:before {
   content: "\f002";
